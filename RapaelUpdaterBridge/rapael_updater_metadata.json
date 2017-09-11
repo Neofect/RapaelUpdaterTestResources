@@ -1,0 +1,10 @@
+{
+  "rapaelUpdater": {
+    "packageName": "com.neofect.rapael.updater",
+    "fileUrl": "https://s3.ap-northeast-2.amazonaws.com/rapael/client/clinic/RapaelClinic-v1.1.1_(20170124-0044)-release.apk",
+    "fileSize": 87605877,
+    "fileChecksumSha256": "1daff360194c821bcb7386f799affb70651083a0f95b92d39da22f35fb355e85",
+    "versionCode": 44,
+    "versionName": "1.1.1 (20170124-0044)"
+  }
+}
